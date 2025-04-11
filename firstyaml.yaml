@@ -3,14 +3,22 @@ kind: Pod
 metadata:
   creationTimestamp: null
   labels:
-    run: podyam
+    run: podyaml
     environment : josh
-  name: podyam
+  name: podyaml
 spec:
   containers:
-  - image: josh
-    name: podyam
+  - image: nginx
+    name: podyaml
+    volumeMounts:
+      - mountPath: "/scrath"
+        name: my-volume
     resources: {}
+  volumes:
+    - name: my-volume
+      emptyDir:
+        sizeLimit: 50Mi
+  dnsPolicy: ClusterFirst
   dnsPolicy: ClusterFirst
   restartPolicy: Always
 status: {}

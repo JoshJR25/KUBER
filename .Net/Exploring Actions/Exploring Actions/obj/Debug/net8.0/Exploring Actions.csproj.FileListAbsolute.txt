@@ -1,0 +1,29 @@
+C:\Users\joshi\source\repos\Exploring Actions\Exploring Actions\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\joshi\source\repos\Exploring Actions\Exploring Actions\bin\Debug\net8.0\appsettings.json
+C:\Users\joshi\source\repos\Exploring Actions\Exploring Actions\bin\Debug\net8.0\Exploring Actions.staticwebassets.endpoints.json
+C:\Users\joshi\source\repos\Exploring Actions\Exploring Actions\bin\Debug\net8.0\Exploring Actions.exe
+C:\Users\joshi\source\repos\Exploring Actions\Exploring Actions\bin\Debug\net8.0\Exploring Actions.deps.json
+C:\Users\joshi\source\repos\Exploring Actions\Exploring Actions\bin\Debug\net8.0\Exploring Actions.runtimeconfig.json
+C:\Users\joshi\source\repos\Exploring Actions\Exploring Actions\bin\Debug\net8.0\Exploring Actions.dll
+C:\Users\joshi\source\repos\Exploring Actions\Exploring Actions\bin\Debug\net8.0\Exploring Actions.pdb
+C:\Users\joshi\source\repos\Exploring Actions\Exploring Actions\obj\Debug\net8.0\Exploring Actions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joshi\source\repos\Exploring Actions\Exploring Actions\obj\Debug\net8.0\Exploring Actions.AssemblyInfoInputs.cache
+C:\Users\joshi\source\repos\Exploring Actions\Exploring Actions\obj\Debug\net8.0\Exploring Actions.AssemblyInfo.cs
+C:\Users\joshi\source\repos\Exploring Actions\Exploring Actions\obj\Debug\net8.0\Exploring Actions.csproj.CoreCompileInputs.cache
+C:\Users\joshi\source\repos\Exploring Actions\Exploring Actions\obj\Debug\net8.0\Exploring Actions.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\joshi\source\repos\Exploring Actions\Exploring Actions\obj\Debug\net8.0\scopedcss\bundle\Exploring Actions.styles.css
+C:\Users\joshi\source\repos\Exploring Actions\Exploring Actions\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\joshi\source\repos\Exploring Actions\Exploring Actions\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\joshi\source\repos\Exploring Actions\Exploring Actions\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\joshi\source\repos\Exploring Actions\Exploring Actions\obj\Debug\net8.0\staticwebassets\msbuild.Exploring Actions.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\joshi\source\repos\Exploring Actions\Exploring Actions\obj\Debug\net8.0\staticwebassets\msbuild.Exploring Actions.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\joshi\source\repos\Exploring Actions\Exploring Actions\obj\Debug\net8.0\staticwebassets\msbuild.build.Exploring Actions.props
+C:\Users\joshi\source\repos\Exploring Actions\Exploring Actions\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Exploring Actions.props
+C:\Users\joshi\source\repos\Exploring Actions\Exploring Actions\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Exploring Actions.props
+C:\Users\joshi\source\repos\Exploring Actions\Exploring Actions\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\joshi\source\repos\Exploring Actions\Exploring Actions\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\joshi\source\repos\Exploring Actions\Exploring Actions\obj\Debug\net8.0\Exploring Actions.dll
+C:\Users\joshi\source\repos\Exploring Actions\Exploring Actions\obj\Debug\net8.0\refint\Exploring Actions.dll
+C:\Users\joshi\source\repos\Exploring Actions\Exploring Actions\obj\Debug\net8.0\Exploring Actions.pdb
+C:\Users\joshi\source\repos\Exploring Actions\Exploring Actions\obj\Debug\net8.0\Exploring Actions.genruntimeconfig.cache
+C:\Users\joshi\source\repos\Exploring Actions\Exploring Actions\obj\Debug\net8.0\ref\Exploring Actions.dll
