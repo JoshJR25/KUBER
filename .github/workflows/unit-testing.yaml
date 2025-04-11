@@ -17,16 +17,16 @@ jobs:
           dotnet-version: '9.x'
 
       - name: Restore dependencies
-        run: dotnet restore '.Net/Exploring Actions/Exploring Actions.sln'
+        run: dotnet restore 'Exploring Actions1/Exploring Actions1.sln'
 
       - name: Build the solution
-        run: dotnet build '.Net/Exploring Actions/Exploring Actions.sln' --configuration Release --no-restore
+        run: dotnet build 'Exploring Actions1/Exploring Actions1.sln' --configuration Release --no-restore
 
       - name: Run unit tests with report
-        run: dotnet test '.Net/Exploring Actions/WeatherForecastControllerTestt/WeatherForecastControllerTestt.csproj' --configuration Release --no-build --logger "trx;LogFileName=TestResults.trx"
+        run: dotnet test 'Exploring Actions1/Test Controller/Test Controller.csproj' --configuration Release --no-build --logger "trx;LogFileName=TestResults.trx"
         
       - name: Upload test results
         uses: actions/upload-artifact@v4
         with:
           name: TestResults
-          path: '.Net/Exploring Actions/WeatherForecastControllerTestt/WeatherForecastControllerTestt.csproj'
+          path: 'Exploring Actions1/Test Controller/Test Controller.csproj'
